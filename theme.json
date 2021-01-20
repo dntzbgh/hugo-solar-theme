@@ -1,0 +1,23 @@
+{
+  "name": "Hugo Solar Theme",
+  "license": "GNU 3",
+  "licenselink": "https://github.com/dntzbgh/hugo-solar-theme/blob/master/LICENSE",
+  "description": "Hugo 'solar' theme inspired from 'https://solar.lowtechmagazine.com/'",
+  "homepage": "",
+  "tags": [
+    "solar",
+    "low",
+    "minimal",
+    "blog",
+    "personal"
+  ],
+  "features": [
+    "multilingual",
+    "minimal"
+  ],
+  "min_version": "0.41.0",
+  "author": {
+    "name": "Dan Baghilovici ( dntzbgh )",
+    "homepage": "https://github.com/dntzbgh"
+  }
+}
