@@ -1,5 +1,4 @@
-
-#navigation{
+#navigation {
   width: 100%;
 
   ul {
@@ -7,17 +6,12 @@
     margin: 0;
     padding: 0;
     background-color: #dddddd;
+
     li {
       display: inline;
-
       a {
-        //text-decoration: none;
         &.active {
           color: red;
-        }
-
-        &:hover {
-          background-color: #b5acac;
         }
       }
     }
